@@ -1,6 +1,6 @@
 # Public RPC Router & Load Balancer
 
-A robust, multi-chain RPC (Remote Procedure Call) router and load balancer built with TypeScript. This service provides high availability and intelligent routing for blockchain RPC endpoints with automatic health checks and session management.
+A robust, multi-chain RPC (blockchain) router and load balancer built with TypeScript. This service provides high availability and intelligent routing for blockchain RPC endpoints with automatic health checks and session management.
 
 [![GitHub](https://img.shields.io/github/license/denizumutdereli/public-rpc-router)](https://github.com/denizumutdereli/public-rpc-router/blob/master/LICENSE)
 
